@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Technology+Undergraduate;Full-Stack+Developer;React+%26+TypeScript+Developer;Java+%26+Spring+Boot+Developer;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshenRandira&label=Profile%20Views&color=0e75b6&style=flat)
-
 </div>
 
 ## 👨‍💻 About Me
@@ -100,9 +98,6 @@ technical_focus:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AshenRandira&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ashen Randira's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenRandira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ashen Randira's most-used languages" />
 
 <br />
 
