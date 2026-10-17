@@ -96,16 +96,6 @@ technical_focus:
 [AgroSense AI Backend](https://github.com/Fourth-X-Born/agro-sense-AI-backend) •
 [Movie Database App](https://github.com/AshenRandira/my_first-movie-databse_app)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=AshenRandira&theme=github-dark-blue&hide_border=true" alt="Ashen Randira's GitHub contribution streak" />
-
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
