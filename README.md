@@ -89,7 +89,7 @@ technical_focus:
 ## 🚧 Projects
 
 [CineScope](https://github.com/AshenRandira/cinescope) •
-[TrustLens LK](https://github.com/TRUST-LENS-LK/trustlens-lk) (Sri Lanka-focused scam analysis, five-layer defense, moderation, and cryptographic audit logging) •
+[TrustLens LK](https://github.com/TRUST-LENS-LK/trustlens-lk) •
 [ServeSync Backend](https://github.com/Byte-knight-team/BK_SP_Backend) •
 [ServeSync Frontend](https://github.com/Byte-knight-team/BK_SP_Frontend) •
 [CodeAlpha E-commerce Store](https://github.com/AshenRandira/CodeAlpha_EcommerceStore) •
@@ -98,19 +98,11 @@ technical_focus:
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshenRandira&theme=github-compact&hide_border=true&area=true" alt="Ashen Randira's GitHub contribution activity graph" />
-
-</div>
+![Ashen Randira's GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshenRandira&theme=github-compact&hide_border=true&area=true)
 
 > 💬 “Make it work, make it right, make it fast.” — Kent Beck
 
 ## 🐍 My Contributions
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AshenRandira/AshenRandira/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+![GitHub contribution snake animation](https://raw.githubusercontent.com/AshenRandira/AshenRandira/output/github-contribution-grid-snake-dark.svg)
 
