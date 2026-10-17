@@ -89,6 +89,7 @@ technical_focus:
 ## 🚧 Projects
 
 [CineScope](https://github.com/AshenRandira/cinescope) •
+[TrustLens LK](https://github.com/TRUST-LENS-LK/trustlens-lk) (Sri Lanka-focused scam analysis, five-layer defense, moderation, and cryptographic audit logging) •
 [ServeSync Backend](https://github.com/Byte-knight-team/BK_SP_Backend) •
 [ServeSync Frontend](https://github.com/Byte-knight-team/BK_SP_Frontend) •
 [CodeAlpha E-commerce Store](https://github.com/AshenRandira/CodeAlpha_EcommerceStore) •
